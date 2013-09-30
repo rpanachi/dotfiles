@@ -98,3 +98,6 @@ endif
 " Pathogen
 execute pathogen#infect()
 filetype plugin indent on
+
+" CtrlP
+set runtimepath^=~/.vim/bundle/ctrlp.vim
