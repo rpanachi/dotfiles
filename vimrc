@@ -101,3 +101,6 @@ filetype plugin indent on
 
 " CtrlP
 set runtimepath^=~/.vim/bundle/ctrlp.vim
+
+" BufExplorer
+nnoremap <C-b> :BufExplorer<CR>
